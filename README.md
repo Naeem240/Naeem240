@@ -50,13 +50,13 @@ Currently learning and expanding my skills toward becoming a **Full Stack Develo
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
+  <a href="https://github.com/Naeem240" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInUsername" target="_blank">
+  <a href="https://linkedin.com/in/md-naeem-haider" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:haidermdnaeem@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
