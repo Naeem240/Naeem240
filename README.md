@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co.com/XMvKRHn/Naeem-Haider-Developer-Technologies.png" alt="Banner Image" />
+<img height=300 src="https://i.ibb.co.com/XMvKRHn/Naeem-Haider-Developer-Technologies.png" alt="Banner Image" />
 
 # 👋 Hi, I'm **Naeem Haider**  
 🚀 **Frontend Developer | Aspiring Full Stack Developer**
